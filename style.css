@@ -1,0 +1,30 @@
+body{
+    background: lightgrey;
+}
+
+svg{
+    background: white;
+    margin-top: 20px;
+}
+.main{
+    color: black;
+}
+.chart-title{
+    font-size:30px;
+    font-weight: bold;
+}
+.dot{
+    stroke:black;
+}
+.tooltip{
+    position: absolute;
+    display: none;
+    min-width: 80px;
+    height: auto;
+    background: none repeat scroll 0 0 steelblue;
+    border: 1px solid steelblue;
+    padding: 14px;
+    color: white;
+    }
+.legend{}
+
