@@ -1,5 +1,5 @@
 ## FreeCodeCamp Project
-### Data Visualization Projects - Visualize Data with a Bar Chart
+### Data Visualization Projects - Visualize Data with ScatterPlot Graph
 Dataset link: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json <br/>
 **d3 js library v4 is used**
 ###### Sample user stories:
